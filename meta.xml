@@ -1,0 +1,14 @@
+<meta>
+
+    <!--
+
+        ©Katredit
+
+        Araç gizlenme sistemi
+
+    -->
+
+    <script src="server.lua" type="server" />
+    <oop>true</oop>
+
+</meta>
